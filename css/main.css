@@ -3,13 +3,15 @@ body {
 }
 
 #container  {
+    height: 128.7px;
     display: flex;
     flex-direction:row;
     flex-wrap:wrap;
     justify-content:center;
 }
 
-img {
+.img {
+    display: inline-block;
     margin-top: 100px;
     width: 800px;
     height:100%;
