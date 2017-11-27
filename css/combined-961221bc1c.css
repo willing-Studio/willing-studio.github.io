@@ -190,21 +190,67 @@ h3 {
     padding-top: 46px;
 }
 
-.meaning .right .blue-btn {
+.local-install{
     background-color: #0F56D9;
     color: #fff;
+    display: block;
+    width: 152px;
+    float: left;
+    text-align: center;
+    height: 37px;
+    border: 1px solid;
+    vertical-align: middle;
+    border-radius: 4px;
+    padding-top: 15px;
+    font-size: 18px;
     margin-top: 48px;
-    padding: 14px 24px;
 }
-
-.meaning .right .blue-btn i {
+.local-install i{
     display: inline-block;
     width: 18px;
-    height: 21px;
-    background: url("../images/download-ca39791845.svg") center no-repeat;
+    height: 22px;
+    background: url(../images/download-ca39791845.svg) center no-repeat;
     margin-right: 14px;
+    float: left;
+    margin-left: 24px;
 }
-
+.local-install span,.app-install span{
+    display: block;
+    float: left;
+}
+.app-install {
+    color: #313131;
+    display: block;
+    width: 252px;
+    float: left;
+    text-align: center;
+    height: 37px;
+    border: 1px solid #dcdcdc;
+    vertical-align: middle;
+    border-radius: 4px;
+    padding-top: 15px;
+    font-size: 18px;
+    margin-top: 48px;
+    margin-left: 20px;
+}
+.app-install i{
+    display: inline-block;
+    width: 24px;
+    height: 25px;
+    background: url(../images/g-h.png) center no-repeat;
+    margin-right: 14px;
+    float: left;
+    margin-left: 24px;
+    margin-top: -2px;    
+}
+.app-install:hover {
+    color: #0F56D9;
+    border-color: #0f56d9;
+}
+.app-install:hover i{
+    display: inline-block;
+    background: url(../images/g-b.png) center no-repeat;   
+}
 .scenes {
     padding-top: 80px;
     padding-bottom: 80px;
