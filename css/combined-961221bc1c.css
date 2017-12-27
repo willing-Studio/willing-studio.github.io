@@ -237,7 +237,7 @@ h3 {
     display: inline-block;
     width: 24px;
     height: 25px;
-    background: url(../images/g-h.png) center no-repeat;
+    background: url(../images/g-h-2.png) center no-repeat;
     margin-right: 14px;
     float: left;
     margin-left: 24px;
@@ -249,7 +249,7 @@ h3 {
 }
 .app-install:hover i{
     display: inline-block;
-    background: url(../images/g-b.png) center no-repeat;   
+    background: url(../images/g-b-2.png) center no-repeat;   
 }
 .scenes {
     padding-top: 80px;
