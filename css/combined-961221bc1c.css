@@ -505,6 +505,10 @@ h3 {
     background-image: url("../images/wyq-69a4da37f7.png");
 }
 
+.team figure:nth-child(6) {
+    background-image: url("../images/xj.png");
+}
+
 .team figure .developer {
     opacity: 0;
     background-color: #F25828;
@@ -547,6 +551,10 @@ h3 {
 
 .team figure .developer .icons a.pinterest {
     background-image: url("../images/pin-1c90be3d07.svg");
+}
+
+.team figure .developer .icons a.zcool {
+    background-image: url("../images/zcool.png");
 }
 
 .team figure .developer .name {
